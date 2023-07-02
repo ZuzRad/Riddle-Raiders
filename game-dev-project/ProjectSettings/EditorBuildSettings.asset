@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4e82ab3b640bd504c9bb25da7a553659
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 292e495027e01eb469951dd88b347832
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 1a332b352910c6349ad81f1404a53f56
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 08ca53e9eee474a478e4aaee48d5dcd4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_1.unity
+    guid: 42ea93cd9254ef44586f18cea7097618
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_2.unity
+    guid: 63e09fb6ba80fb848a5f72003a3b5b86
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_3.unity
+    guid: b9696320a9621704c856b0c633f1e530
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_4.unity
+    guid: b98e8395962a1254698814324e060bec
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_5.unity
+    guid: d0296a55a23eaeb41a3a5b93dd084c3c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_7.unity
+    guid: 81f6f6e7acbc5f547a22e738b8faa427
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_8.unity
+    guid: 59e4442d90bef3848b875c451218ea05
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_9.unity
+    guid: 87946dde550efb543b45bbe064327ed0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_10.unity
+    guid: ace389dd031168d429a1f63d9647bb7f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_11.unity
+    guid: de4a37e635d7a2045ba6d5d344a6692a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_12.unity
+    guid: 54a184e65ccfcd74dbf6e553cb815682
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_13.unity
+    guid: 132b80670fabf3f4eaf6a4322c6382e3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_14.unity
+    guid: 870c6cea6533a2443bcc94e3562a591c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_15.unity
+    guid: c44e93caf5d0121458638a01bb4b04c7
+  m_configObjects: {}
